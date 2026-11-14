@@ -26,7 +26,7 @@ Les versions suivantes s'installent ensuite **directement depuis l'application**
 | **Anime-Sama** | ✅ Mode dédié : fonctionne parfaitement |
 | **FRAnime** | ✅ Mode dédié : fonctionne parfaitement |
 | **Voiranime** | ✅ Mode dédié : fonctionne parfaitement |
-| **SenAnimes** | 🧪 Ajouté en mode universel, mode dédié en préparation |
+| **SenAnimes** | ✅ Mode dédié (nouveau) : catalogue, films, saisons et épisodes ; la vidéo est récupérée depuis le lecteur du site |
 | **Tout autre site** | ⚠️ Mode universel : l'application devine elle-même où sont les affiches, saisons, épisodes et lecteurs. Ça marche sur beaucoup de sites, mais **moins bien et moins proprement** que les sites en mode dédié. |
 
 Les sites principaux sont déjà ajoutés au premier lancement. Sous chaque site, un petit point indique son état (**En ligne**, **Lent**, **Répond mal**, **Hors ligne**), vérifié à chaque démarrage.
